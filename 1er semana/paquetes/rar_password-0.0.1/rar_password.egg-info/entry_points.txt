@@ -1,0 +1,3 @@
+[console_scripts]
+rar_password = rar_password.cli:main
+

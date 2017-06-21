@@ -1,0 +1,73 @@
+Metadata-Version: 1.1
+Name: rar_password
+Version: 0.0.1
+Summary: rar_password is simple command line tool for find password
+Home-page: https://github.com/item4/rar_password
+Author: item4
+Author-email: item4_hun@hotmail.com
+License: MIT License
+Download-URL: https://github.com/item4/rar_password/tarball/0.0.1
+Description: RAR_PASSWORD
+        ============
+        
+        RAR_PASSWORD is simple password finder for RAR files.
+        
+        
+        Requirements
+        ------------
+        
+        1. Python 3
+        2. UnRAR
+        
+        You can install UnRAR by `apt-get` or `brew`
+        
+        .. code-block:: console
+        
+           $ sudo apt-get install unrar
+        
+        or
+        
+        .. code-block:: console
+        
+           $ brew install unrar
+        
+        
+        Installation
+        ------------
+        
+        You can install it by pip.
+        
+        .. code-block:: console
+        
+           $ pip3 install rar_password
+        
+        
+        Usage
+        -----
+        
+        .. code-block:: console
+        
+           $ rar_password filename.rar > password.txt
+        
+        You can find more options with `--help` option.
+        
+        .. code-block:: console
+        
+           $ rar_password --help
+        
+        
+        License
+        -------
+        
+        MIT
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Environment :: MacOS X
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: Implementation :: CPython
