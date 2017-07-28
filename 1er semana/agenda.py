@@ -1,6 +1,6 @@
 agenda={
-	"Diego vergas":[5517316995,"diegogo.hdez@gmail.com"],
-	"Alfredo comemocos":[5527522775,"smash_gl@hotmail.com"],
+	"Diego":[5517316995,"diegogo.hdez@gmail.com"],
+	"Alfredo":[5527522775,"smash_gl@hotmail.com"],
 	"Tere":[5512162899,"ant_la@hotmail.com"],
 	"Alejandro":[5538745144,"alex@hotmail.com"],
 	"Karla":[5527738192,"karla@gmail.com"],
